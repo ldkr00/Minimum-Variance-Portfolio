@@ -1,4 +1,4 @@
-# Minimum_Variance_Portfolio
+# MinimumVariancePortfolio
 
 The following Python notebook solves the following tasks:
 1. Pull stock returns time series from yahoo finance for ["ADBE", "ZM", "COST", "DIS", "ISRG"]
